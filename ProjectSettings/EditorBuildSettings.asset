@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: 5357904d2b343ff4c971d9a82164a69b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7fe7b6eb3e14c744fbf916dcc733ac25
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: dec28b30099a7ab4e833f9aca584bc2c
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 9c0c90b3c8751ee40acd5ede2d96c0c3
+  - enabled: 1
+    path: Assets/Scenes/LevelBoss.unity
+    guid: 417d45ec0ff181446878043443ea67c6
+  - enabled: 1
+    path: Assets/Scenes/Transition1.unity
+    guid: 57cae7f177ba4bb4baf04418343e5a76
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: a693237df7c454c42b2067012301e223
+  - enabled: 1
+    path: Assets/Scenes/Transition3.unity
+    guid: 733f2bdf8787aa446b442ad3977c75bf
+  - enabled: 1
+    path: Assets/Scenes/Transition4.unity
+    guid: 7a151a1734c39c644b80a1af1211d163
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: f44d769d7e255294aaff3ceafb53dc10
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 14842fb0d42a5b3469f6c9ff1eb1ef41
+  m_configObjects: {}
